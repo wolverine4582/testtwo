@@ -1,1 +1,1 @@
-Print("Hello World testtwo")
+Print("Hello World")
